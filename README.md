@@ -102,6 +102,7 @@ To save the world from creating user accounts and installing software applicatio
 #### <a name="doc-eds-others"></a> Others
 
 * [EtherCalc](https://ethercalc.net/) - Online spreadsheet editor, exports to Excel.
+* [pdfux](https://pdfux.com/) - PDF Tools for merging, adding pages, etc. Works offline after first visit.
 * [PdfEscape](https://www.pdfescape.com/) - Edit or create PDFs in browser itself.
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
 * [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
@@ -190,6 +191,7 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Internet Downloaders
 
+* [cobalt](https://cobalt.tools/) - Open-source media downloader in browser.
 * [savefrom.net](http://en.savefrom.net/) - Download from YouTube, Dailymotion, Vimeo and more.
 * [Youtube Converter & Downloader](https://www.onlinevideoconverter.com/video-converter) - Download YouTube video in any audio/video format.
 * [keepvid](http://keepvid.com/) - YouTube, SoundCloud, Facebook downloader.
@@ -250,7 +252,8 @@ To save the world from creating user accounts and installing software applicatio
 * [SQLFiddle](http://sqlfiddle.com/) - Tool for easy online testing and sharing of database problems and their solutions.
 * [Brainfuck Visualizer](http://fatiherikli.github.io/brainfuck-visualizer/) -  Javascript Brainfuck Interpreter + Visualizer. Helps you understanding how code is working.
 * [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser.
-* [DartPad](https://dartpad.dartlang.org/) -DartPad is an open-source tool that lets you play with the Dart language in any modern browser.
+* [DartPad](https://dartpad.dartlang.org/) - DartPad is an open-source tool that lets you play with the Dart language in any modern browser.
+* [Shadertoy](https://www.shadertoy.com/) - Build, run, and share shaders in browser.
 
 
 ### Programming Tools
@@ -347,6 +350,11 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Miscellaneous
 
+* [neal.fun](https://neal.fun/) - Lot of neat little fun web apps/games made by developer [Neal Agarwal](https://x.com/nealagarwal)
+* [Windows 93](https://www.windows93.net/) - Windows 93 Custom OS that runs in browser and includes fun games/tools.
+* [The Useless Web](https://theuselessweb.com/) - Takes you to a random useless website.
+* [Webamp](https://webamp.org/) - Winamp, recreated in the browser!
+* [Winamp Skin Museum](https://skins.webamp.org/) - Museum for old Winamp skins.
 * [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device.
 * [is.gd](https://is.gd/) - Link shortener with custom URLs and open API (no tokens).
 * [Bitly](https://bitly.com/) - Powerful URL shortener with REST API.
