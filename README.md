@@ -355,6 +355,7 @@ To save the world from creating user accounts and installing software applicatio
 * [The Useless Web](https://theuselessweb.com/) - Takes you to a random useless website.
 * [Webamp](https://webamp.org/) - Winamp, recreated in the browser!
 * [Winamp Skin Museum](https://skins.webamp.org/) - Museum for old Winamp skins.
+* [Microsoft ISO Archive](https://files.rg-adguard.net/) - Archive of all Windows/Microsoft application ISOs. 
 * [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device.
 * [is.gd](https://is.gd/) - Link shortener with custom URLs and open API (no tokens).
 * [Bitly](https://bitly.com/) - Powerful URL shortener with REST API.
